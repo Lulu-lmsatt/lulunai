@@ -1,0 +1,98 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.links a {
+  font-family: new_romanticsregular;
+}
+
+.imgbg {
+  position: fixed;
+  background-image: url(bg3.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: brightness(0.9);
+  margin-left: 5%;
+  width: 25%;
+  padding: 2%;
+  border-radius: 100px;
+}
+
+.name {
+  font-size: 60px;
+  font-family: new_romanticsregular;
+  text-align: center;
+  color: white;
+}
+
+.links {
+  position: fixed;
+  top: 260px;
+  width: 20%;
+  margin-left: 9.5%;
+  text-align: center;
+}
+
+.journal {
+  padding: 1%;
+  background-image: url(bg4.gif);
+  background-size: cover;
+  background-position: top;
+  border-radius: 80px;
+}
+
+.drive {
+  padding: 1%;
+  background-image: url(bg4.gif);
+  background-size: cover;
+  background-position: center;
+  border-radius: 80px;
+}
+
+.bookmarks {
+  padding: 1%;
+  background-image: url(bg4.gif);
+  background-size: cover;
+  background-position: bottom;
+  border-radius: 80px;
+}
+
+.textbox {
+  padding: 8%;
+  padding-top: 3%;
+  padding-bottom: 5%;
+  margin-top: 2%;
+  margin-left: 38%;
+  width: 42%;
+  background-color: #0b161e;
+  border-radius: 30px;
+}
+
+.scc {
+  margin-top: 2%;
+  margin-left: 45%;
+  width: 42%;
+  border-radius: 40px;
+}
+
+.date2 {
+  text-align: center;
+  background-image: url(music.gif);
+  background-size: cover;
+  padding: 2%;
+  padding-right: 15%;
+  padding-left: 15%;
+  border-radius: 80px;
+  font-size: 36px;
+  font-family: new_romanticsregular;
+}
+
+#neocit {
+  background-image: url(ed.gif);
+}

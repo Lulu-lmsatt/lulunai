@@ -1,0 +1,80 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.links a {
+  font-family: new_romanticsregular;
+}
+
+.imgbg {
+  background-image: url(rainy.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: hue-rotate(180deg);
+  margin: auto;
+  width: 80%;
+  padding: 2%;
+  border-radius: 100px;
+}
+
+.name {
+  font-size: 60px;
+  font-family: new_romanticsregular;
+  text-align: center;
+  color: white;
+}
+
+.links {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.journal {
+  padding: 2%;
+  background-image: url(flower.gif);
+  background-size: cover;
+  background-position: top;
+  border-radius: 80px;
+}
+
+.drive {
+  padding: 2%;
+  background-image: url(flower.gif);
+  background-size: cover;
+  background-position: center;
+  border-radius: 80px;
+}
+
+.bookmarks {
+  padding: 2%;
+  background-image: url(flower.gif);
+  background-size: cover;
+  background-position: bottom;
+  border-radius: 80px;
+}
+
+.textbox {
+  padding: 8%;
+  padding-top: 3%;
+  padding-bottom: 5%;
+  margin: auto;
+  margin-top: 4%;
+  width: 65%;
+  background-color: #1a1e0e;
+  border-radius: 30px;
+}
+
+.scc {
+  margin-top: 3%;
+  margin-left: 15%;
+  margin-right: 15%;
+  width: 70%;
+  border-radius: 40px;
+}
